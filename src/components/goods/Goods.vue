@@ -1,22 +1,15 @@
 <template>
-  <div id="app">
-    <router-view></router-view>
+  <div>
+    商品
   </div>
 </template>
 
 <script>
 export default {
   data () {
-    return {
-
-    }
+    return {}
   },
-  methods: {
-
-  },
-  computed: {
-
-  }
+  methods: {}
 }
 </script>
 
